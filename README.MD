@@ -1,6 +1,6 @@
 # ![Nexter-Logo](img/favicon.png 'Nexter-Logo') Nexter-Project
 
-#### \*\* The Nexter-project is deployed and live now: [Click Here !](https://nexter-your-home.netlify.app/)😍🥳🎉 \*\*
+#### \*\* The Nexter-project is deployed and live now: [Click Here !](https://nexter-your-homefreedom.netlify.app/)😍🥳🎉 \*\*
 
 ## Table of Contents
 

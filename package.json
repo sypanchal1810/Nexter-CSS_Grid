@@ -1,7 +1,7 @@
 {
   "name": "Nexter-Project",
   "version": "1.0.0",
-  "description": "",
+  "description": "The ultimate personal freedom - Your Home, Your Freedom",
   "main": "index.js",
   "scripts": {
     "dev": "live-server",
